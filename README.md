@@ -8,26 +8,35 @@
 
 ### 🚀 Data Science Enthusiast | Mumbai, India
 
-[![CS Student](https://img.shields.io/badge/CS%20STUDENT-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ani25062006)
-[![Problem Solver](https://img.shields.io/badge/PROBLEM%20SOLVER-2ea44f?style=for-the-badge)](https://github.com/Ani25062006)
-[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-d29922?style=for-the-badge)](https://github.com/Ani25062006)
-[![Contributor](https://img.shields.io/badge/CONTRIBUTOR-238636?style=for-the-badge)](https://github.com/Ani25062006)
+![CS Student](https://img.shields.io/badge/CS%20STUDENT-0078D4?style=for-the-badge) ![Problem Solver](https://img.shields.io/badge/PROBLEM%20SOLVER-2ea44f?style=for-the-badge) ![Contributor](https://img.shields.io/badge/CONTRIBUTOR-238636?style=for-the-badge)
 
 </div>
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
 
 ### 👩‍💻 About Me
 * 🎓 **Computer Science Student** | Mumbai, India
 * 🛠️ Building projects in **Data Science, Python & Web Development**
-* 📊 Passionate about **Data Science, AI/ML & Frontend Development**
-* 📚 Currently learning **Machine Learning, TypeScript & Cloud Basics**
-* 💬 Ask me about **Python, Data Analysis, Web Dev & Open Source**
-* 📫 Reach me on — **[LinkedIn](https://www.linkedin.com/feed/)** 
+* 📊 Passionate about **Machine Learning & Data Analytics**
+* 💬 Ask me about **Python or Data Analysis**
+* 📫 Reach me on — **[LinkedIn](https://www.linkedin.com/feed/)**
 
 ---
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ani25062006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ananya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ani25062006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ananya's Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani25062006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
