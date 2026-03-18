@@ -21,7 +21,7 @@
 * 📊 Passionate about **Data Science, AI/ML & Frontend Development**
 * 📚 Currently learning **Machine Learning, TypeScript & Cloud Basics**
 * 💬 Ask me about **Python, Data Analysis, Web Dev & Open Source**
-* 📫 Reach me on — **[LinkedIn](https://www.linkedin.com/in/your-profile)** (Apna link yahan dalein)
+* 📫 Reach me on — **[LinkedIn](https://www.linkedin.com/feed/)** 
 
 ---
 
