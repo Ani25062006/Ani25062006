@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF33A1&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Code.+Learn.+Build.+Repeat.;Always+one+project+away+from" alt="Typing SVG" />
 
----
-
 ### 🚀 Data Science Enthusiast | Mumbai, India
 
 ![CS Student](https://img.shields.io/badge/CS%20STUDENT-0078D4?style=for-the-badge) ![Problem Solver](https://img.shields.io/badge/PROBLEM%20SOLVER-2ea44f?style=for-the-badge) ![Contributor](https://img.shields.io/badge/CONTRIBUTOR-238636?style=for-the-badge)
